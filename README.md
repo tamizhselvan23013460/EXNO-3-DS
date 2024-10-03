@@ -230,6 +230,9 @@ plt.show()
 
 ![image](https://github.com/user-attachments/assets/71bd5663-3200-4734-b2df-ea416278e204)
 
+
+
+
 # RESULT:
 Thus Feature encodind and transformation process is performed on the given data.
 
